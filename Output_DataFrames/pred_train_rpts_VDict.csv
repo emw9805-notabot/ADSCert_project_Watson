@@ -1,0 +1,4 @@
+,pdfname,nlp_path,language,similarity_threshold,cleanup_threshold,ES_0_percent,ES_100_percent,ES_partial,number_of_cats,simsre,resimScores
+0,Climate_Bond_Framework_of_E1_SUBHOLDING_S_A__in_2021,UOP_section_true,EN,0.8,0.65,False,True,False,1,"{'generation generation': 0.8221270442008972, 'power power': 1.0, 'renewable renewable': 1.0, 'solar solar': 1.0, 'transmission transmission': 1.0}",{}
+1,Chile_Sustainable_Bond_Framework,Table,EN,0.8,0.65,False,False,True,8,"{'generation generation': 0.8221270442008972, 'power power': 1.0, 'renewable renewable': 1.0, 'solar solar': 1.0, 'transmission transmission': 1.0}",{'renewable': 1.0}
+2,Genneia_Green_Financing_Framework,Table,EN,0.8,0.65,False,True,False,1,"{'generation generation': 0.8221270442008972, 'power power': 1.0, 'renewable renewable': 1.0, 'solar solar': 1.0, 'transmission transmission': 1.0}",{'renewable': 1.0}
