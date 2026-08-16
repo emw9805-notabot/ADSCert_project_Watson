@@ -8,9 +8,9 @@
 6,greenbondsprogramme,UOP_section_true,EN,0.97,0.77,False,False,True,4
 7,Rumo_Green_Bond_2028_Framework,UOP_section_false,EN,0.97,0.77,True,False,False,3
 8,Sustainability_Bond_Framework,Table,EN,0.97,0.77,True,False,False,2
-9,wcc-green-bond-second-party-opinion-05222019,Table,EN,0.97,0.77,True,False,False,1
-10,FEFA_20V_Green_Bond_Framework,Table,EN,0.97,0.77,True,False,False,3
-11,FEFA_Green_Bond_Framework,Table,EN,0.97,0.77,True,False,False,3
+9,wcc-green-bond-second-party-opinion-05222019,Table,EN,0.97,0.77,False,True,False,1
+10,FEFA_20V_Green_Bond_Framework,Table,EN,0.97,0.77,False,False,True,3
+11,FEFA_Green_Bond_Framework,Table,EN,0.97,0.77,False,False,True,3
 12,Green_Bonds_Framework_-_Banco_Pichincha,UOP_section_true,ES,0.8,0.65,False,False,True,6
 13,Marco_de_la_Primera_Emision,Table,ES,0.8,0.65,False,False,True,4
 14,Marco_del_Bono_Verde,Table,ES,0.8,0.65,False,False,True,7
